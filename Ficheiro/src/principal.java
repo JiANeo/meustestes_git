@@ -12,7 +12,7 @@ public class principal {
 		System.out.println("Escreveu : " + entrada);
 		
 		if (entrada.equalsIgnoreCase("sim")) {
-			System.out.println("O contúdo do ficheiro :");
+			System.out.println("O conteúdo do ficheiro :");
 
 			// ------------
 
